@@ -2,8 +2,8 @@ import numpy as np
 import os
 time = 0
 np.set_printoptions(threshold='nan')
-directory = os.listdir('C:\Users\Rimon Dubnov\Desktop\GoogleProject\SisFall_dataset\Test\D01 - Copy')
-os.chdir('C:\Users\Rimon Dubnov\Desktop\GoogleProject\SisFall_dataset\Test\D01 - Copy')
+directory = os.listdir(r'C:\Users\Rimon Dubnov\Desktop\GoogleProject\SisFall_dataset\Test\D01 - Copy')
+os.chdir(r'C:\Users\Rimon Dubnov\Desktop\GoogleProject\SisFall_dataset\Test\D01 - Copy')
 
 for file in directory:
     open_file = open(file, 'r')
