@@ -2,8 +2,123 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bec4b1f-1886-4950-8218-fcd1e4860e08" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CNN_model_test.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Human-Activity-Recognition-using-CNN-master/Activity Detection.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA01_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA02_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA03_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA04_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA05_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA06_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA07_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA08_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA09_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA10_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA11_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA12_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA13_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA14_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA15_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA16_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA17_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA18_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA19_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA20_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA21_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA22_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SA23_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SE01_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SE02_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SE03_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SE04_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SE05_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SE06_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SE07_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SE08_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SE09_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SE10_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SE11_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SE12_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SE13_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SE14_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D01 - Copy/D01_SE15_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA01_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA02_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA03_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA04_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA05_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA06_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA07_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA08_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA09_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA10_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA11_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA12_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA13_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA14_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA15_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA16_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA17_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA18_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA19_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA20_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA21_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA22_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SA23_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SE01_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SE02_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SE03_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SE04_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SE05_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SE06_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SE07_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SE08_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SE09_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SE10_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SE11_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SE12_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SE13_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SE14_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D02 - Copy/D02_SE15_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA01_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA02_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA03_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA04_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA05_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA06_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA07_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA08_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA09_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA10_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA11_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA12_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA13_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA14_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA15_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA16_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA17_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA18_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA19_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA20_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA21_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA22_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SA23_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SE01_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SE02_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SE03_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SE04_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SE05_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SE06_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SE07_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SE08_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SE09_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SE10_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SE11_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SE12_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SE13_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SE14_R01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SisFall_dataset/Test/D03 - Copy/D03_SE15_R01.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ActivityDetection.py" afterPath="$PROJECT_DIR$/ActivityDetection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SisFall_Preprocess.py" afterPath="$PROJECT_DIR$/SisFall_Preprocess.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +132,8 @@
       <file leaf-file-name="SisFall_Preprocess.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SisFall_Preprocess.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="390">
+              <caret line="30" column="52" lean-forward="true" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -26,16 +141,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Activity Detection.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Activity Detection.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>window</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,13 +156,15 @@
       <list>
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
         <option value="$PROJECT_DIR$/Activity Detection.ipynb" />
+        <option value="$PROJECT_DIR$/ActivityDetection.py" />
+        <option value="$PROJECT_DIR$/SisFall_Preprocess.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="width" value="1346" />
-    <option name="height" value="678" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="699" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -145,11 +258,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1384" height="736" extended-state="6" />
+    <frame x="-8" y="0" width="699" height="726" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3338983" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3628159" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
@@ -194,25 +307,36 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SisFall_Preprocess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="483">
+          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Activity Detection.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
+    <entry file="file://$PROJECT_DIR$/ActivityDetection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2331">
+          <caret line="111" column="34" lean-forward="true" selection-start-line="111" selection-start-column="34" selection-end-line="111" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SisFall_Preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -226,13 +350,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Activity Detection.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
+    <entry file="file://$PROJECT_DIR$/Activity Detection.ipynb" />
+    <entry file="file://$PROJECT_DIR$/SisFall_Preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Activity Detection.ipynb" />
     <entry file="file://$PROJECT_DIR$/SisFall_Preprocess.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -253,13 +382,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Activity Detection.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Activity Detection.ipynb" />
     <entry file="file://$PROJECT_DIR$/SisFall_Preprocess.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -270,13 +393,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Activity Detection.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Activity Detection.ipynb" />
     <entry file="file://$PROJECT_DIR$/SisFall_Preprocess.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -290,31 +407,21 @@
     <entry file="file://$PROJECT_DIR$/CNN_model_test.ipynb" />
     <entry file="file://$PROJECT_DIR$/CNN_model_test.ipynb" />
     <entry file="file://$PROJECT_DIR$/Human-Activity-Recognition-using-CNN-master/Activity Detection.ipynb" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy" />
+    <entry file="file://$PROJECT_DIR$/Activity Detection.ipynb" />
+    <entry file="file://$PROJECT_DIR$/ActivityDetection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Activity Detection.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
+        <state relative-caret-position="188">
+          <caret line="154" column="0" lean-forward="true" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SisFall_Preprocess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="390">
+          <caret line="30" column="52" lean-forward="true" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>

@@ -2,7 +2,7 @@
 
 # In[ ]:
 def read_data(file_path):
-    column_names = ['user-id','activity','timestamp', 'x-axis', 'y-axis', 'z-axis']
+    column_names = ['timestamp','activity','x-axis', 'y-axis', 'z-axis','r_x-axis','r_y-axis','r_z-axis','2nd_x-axis','2nd_y-axis','2nd_z-axis']
     data = pd.read_csv(file_path,header = None, names = column_names)
     return data
 
@@ -35,7 +35,7 @@ def windows(data, size):
         yield start, start + size
         start += (size / 2)
 
-def segment_signal(data,window_size = 90):
+def segment_signal(data,window_size = 300): #300 is gcd of 12*200/2 and 15*200/2
     segments = np.empty((0,window_size,3))
     labels = np.empty((0))
     for (start, end) in windows(data['timestamp'], window_size):
@@ -117,11 +117,11 @@ test_y = labels[~train_test_split]
 # In[12]:
 
 input_height = 1
-input_width = 90
-num_labels = 6
+input_width = 100 #length of rows
+num_labels = 11
 num_channels = 3
 
-batch_size = 10
+batch_size = 10 #don't think needs to be changed
 kernel_size = 60
 depth = 60
 num_hidden = 1000
